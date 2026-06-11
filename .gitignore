@@ -13,3 +13,7 @@ mlruns/
 
 # MacOS
 .DS_Store
+
+# Data files
+data/*.csv
+processed_data/*.csv

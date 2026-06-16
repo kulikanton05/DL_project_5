@@ -25,3 +25,7 @@ artifacts/*.json
 artifacts_issue/*.csv
 artifacts_issue/*.txt
 artifacts_issue/*.json
+
+artifacts_mlp/*.csv
+artifacts_mlp/*.txt
+artifacts_mlp/*.json

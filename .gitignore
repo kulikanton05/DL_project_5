@@ -16,4 +16,12 @@ mlruns/
 
 # Data files
 data/*.csv
-processed_data/*.csv
+
+# Artifacts data
+artifacts/*.csv
+artifacts/*.txt
+artifacts/*.json
+
+artifacts_issue/*.csv
+artifacts_issue/*.txt
+artifacts_issue/*.json
